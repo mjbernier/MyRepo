@@ -1,0 +1,91 @@
+---
+title: "Week 8 - What I Learned in DSCI 412"
+author: "Michael Bernier"
+date: '2022-04-25'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Assignment Overview & Instructions
+In this module you learned how to set up Git + GitHub accounts. For this homework:
+
+- Create a Github Account.
+
+- Open an rmd file and in a few sentences, list two main things you learned from each week. So, you will be listing a total of 16 items.  
+
+- Save your rmd file (from above) in your Github account.
+
+- Submit the url to your Github account.
+
+Note the main purpose of this exercise is to see how you can utilize Github. Also, creating the above rmd file will help you review topics you have learned in this course.
+
+***
+
+### Week 1
+
+- Introduction to Predictive Modeling / How to set up and use RMarkdown
+
+- Evaluation of Regression Models / Model Performance
+
+
+*** 
+
+### Week 2
+
+- How to explore data using Summary Statistics and Data Visualization
+
+- Methods of addressing missing values and tranformation of variable types to facilitate analysis
+
+***
+
+### Week 3
+
+- Creating and training Linear Regression models for variable data
+
+- Using a Linear Regression model to predict outcomes for test data, and evaluating the quality of the predictions
+
+***
+
+### Week 4
+
+- Creating and training Logistical Regression models for classifying data
+
+- Evaluating the accuracy and performance of a Logistical Regression model using a Confusion Matrix to calculate Precision, Recall, and the overall F1 score
+
+***
+
+### Week 5
+
+- Introduction to Generalized Linear Models (GLMs) and how they can be used for analyzing non-normalized data
+
+- Building and using GLMs based on Poisson and Gamma distributions
+
+***
+
+### Week 6
+
+- Introduction to Tree-based models (Decision Trees, Bagging Trees, and Random Forests)
+
+- Building and comparing Decision Tree and Random Forest models to determine optimal tree size and predictor importance
+
+***
+
+### Week 7
+
+- Introduction to K-Means Clustering and its applications
+
+- Practice using methods to determine the optimal number of clusters (K value)
+
+***
+
+### Week 8
+
+- Proper documentation and presentation of modeling results
+
+- Use of Git and GitHub for organizing and sharing code, models, and results
+
+***
